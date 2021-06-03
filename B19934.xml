@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the more speedy bringing in of seamen and mariners.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19934</idno><idno type="EEBO-CITATION">99889291_191271</idno>
+  <idno type="VID">191271</idno>
+  <idno type="EEBO-PROQUEST">2264184644</idno>
+  
+            <idno type="OCLC"> 8936510</idno>
+            <idno type="STC">Wing C3496</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[82]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[57]</idno>
+            <idno type="STC">ESTC R25340</idno>
+            <idno type="PROQUEST">ocm99889291</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889291e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191271)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[82]; C18:2[57])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the more speedy bringing in of seamen and mariners.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the Assigns of John Bill and Christopher Barker, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>In the Savoy, [i.e. London] :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at the court at Whitehall the 10th day of April 1672. In the 24th year of His Majesties reign.</note>
+                  <note>Steele notation: Arms 75  Mari- Merchants 2) Seaman ut-.</note>
+                  <note>Filmed copy at UMI Tract Supplement reel C18 consists of one contiguous sheet.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Royal Navy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:191271:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <p>
+                     <label>C R</label>
+                  </p>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <byline>By the King.</byline>
+            <head>A PROCLAMATION For the more speedy bringing in of Seamen and Mariners.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Or the better Supply of His Majesties Fleet with such a Number of Seamen and Mari<g ref="char:EOLhyphen"/>ners as shall be found necessary to its full complement, and for prevention of such unlaw<g ref="char:EOLhyphen"/>ful practices as are daily used for Concealing of Persons of that Calling and Condition from the Press that is gone out for His Majesties Service; His Majesty by advice of His Privy Council hath thought fit to Declare His Royal Will and Pleasure, That all Pro<g ref="char:EOLhyphen"/>tections whatsoever heretofore granted, whereby the Seamen or Mariners serving in any Merchants Ship, or in the Ship of any Privateer, are exempted, or may pretend to be ex<g ref="char:EOLhyphen"/>empted from being Prest and taken into the Service of His Majesties Fleet, shall cease, and are hereby ab<g ref="char:EOLhyphen"/>solutely determined and recalled. Nevertheless, it shall and may be lawful to, and for any Merchants Ship, or Ships belonging to any Privateer, to be Navigated by such Forreign Seamen and Mariners as they can procure, without having any such Forreign Seamen or Mariner taken from them by His Majesties Offi<g ref="char:EOLhyphen"/>cers, upon any pretence whatsoever; But all Seamen and Mariners who are His Majesties Natu<g ref="char:EOLhyphen"/>ral born Subjects, and shall be found in any such Ships, shall and may be taken from thence by His Ma<g ref="char:EOLhyphen"/>jesties Officers, and disposed of in His Majesties Fleet, any former Protection, Priviledge, or Exemption to the contrary notwithstanding. And all Merchants Ships and Privateers not Navigated with Forreigners, as aforesaid, are hereby restrained from going to Sea. And because divers Seamen and Mariners pretend to render themselves to His Majesties Service, by going on board several of His Majesties Ships, and there procure a Pass or Ticket from the Chief Officers of such Ships, licensing them to go and continue on shoar for a few days upon their private occasions, and when by pretence of such Passes or Tickets they have esca<g ref="char:EOLhyphen"/>ped the Press, withdraw themselves, and do not return to His Majesties Ships at the time appointed; Therefore His Majesty doth Declare, that no such Pass or Ticket shall be allowed or admitted, to excuse any Seaman or Mariner from being Pressed into the Service of His Majesties Fleet, unless such Seaman or Mariner producing such Pass or Ticket, shall be found in the Company of, and be owned by some Offi<g ref="char:EOLhyphen"/>cer of the Ship, to which the said Pass or Ticket expresses him to belong, who will be responsable for his forth-coming. And to the end that no Inn-keeper, Alehouse-keeper, Victualler, or Owners of private Houses, may presume to Harbour or Conceal any Seamen or Mariners, in a time when their Service is of so much importance to His Majesty, and all His Dominions; His Majesty doth expresly Charge and Command all manner of Persons, having any Lodgers in their House of that Calling or Condition, That they forthwith discover them to some of His Majesties Officers, that they may be seized and secured for His Majesties ser<g ref="char:EOLhyphen"/>vice. And if any such Inn-keeper; Victualler; or other person, receiving of Lodgers, shall be found to have wilfully harboured or concealed any Seaman or Mariner, Then the Person so concealing, shall either suffer the utmost penalties of Law, for such his contempt; or, if it shall be found more expedient for His Majesties service, shall himself be Pressed to serve in His Majesties Fleet, in stead of the Person so by him Concealed: And moreover, the Seaman or Mariner so withdrawing and Concealing himself, shall, when discovered, be grievously punished, and suffer the utmost severity of the Law.</p>
+            <p>And that His Majesties Service in these and all other occasions relating to His Majesties Fleet, may be the better carried on; His Majesty doth hereby Require the Masters, and all other Officers and Bre<g ref="char:EOLhyphen"/>thren of the <hi>Trinity House,</hi> That they be from time to time Aiding and Assisting to the Commissioners of His Majesties Navy, and Obedient to such Directions as they shall receive from them. And moreover, His Majesty doth Require all Lord-Lieutenants, Deputy-Lieutenants, Iustices of Peace, Constables, and all other His loving Subjects whatsoever, That they be Aiding and Assisting to all and every the Press-Masters to be Employed on this Service, and that they take care in their several Places and Cal<g ref="char:EOLhyphen"/>lings, That His Majesties Service be effectually performed in the Impresting of all Seamen, Mariners, Shipwrights, and Caulkers upon this occasion, and such onely, and that the same be of Strong and Able Bodies, fit for His Majesties present Service: And for their better Incouragement, and the better per<g ref="char:EOLhyphen"/>formance hereof, His Majesty hath Commanded, and doth hereby Authorize and Command the Principal Officers and Commissioners of His Navy, That they do from time to time defray all such Costs and Char<g ref="char:EOLhyphen"/>ges, as shall by them be thought requisite to be laid out by themselves or others in Impresting, or Con<g ref="char:EOLhyphen"/>ducting to the Fleet, the said Seamen, Mariners, Shipwrights, and Caulkers, and such onely, for His Majesties present Service, or in the Carrying and Conducting of the men so Prest, unto the said Principal Officers and Commissioners of His Majesties Navy, and that immediately upon the presenting of them un<g ref="char:EOLhyphen"/>to the said Commissioners of the Navy, and without further delay. And His Majesty Commands all His Subjects whom it doth or may concern, That they see His Majesties Pleasure herein before Declared, to be exactly obeyed, and in all things to be performed and fulfilled, as they will answer the contrary at their ut<g ref="char:EOLhyphen"/>most perils.</p>
+            <closer>
+               <dateline>Given at the Court at <hi>Whitehall</hi>
+                  <date>the 10<seg rend="sup">th</seg> day of <hi>April</hi> 1672. In the 24<seg rend="sup">th</seg> year of His Majesties Reign.</date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY,</hi> Printed by the Assigns of <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings most Excellent Majesty. 1672.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
